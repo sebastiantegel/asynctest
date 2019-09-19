@@ -1,0 +1,8 @@
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.is-valid, .is-invalid {
+    background-image: none !important;
+}

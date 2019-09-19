@@ -1,0 +1,1 @@
+export const apiUrl: string = 'http://helplistapi.azurewebsites.net/api';
